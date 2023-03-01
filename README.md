@@ -20,5 +20,7 @@ I'm Juan, a programming student at the National Technological University who is 
 
 ## Contact Me
 
-If you would like to get in touch with me, you can email me at juanupla@gmail.com or follow me on Twitter [@juanupla](https://twitter.com/juanupla). I'm always willing to collaborate and learn from new projects and experiences.
+If you want to contact me, you can send me an email to juan.cremona@gmail.com or juan_crub@outlook.com
+You can also follow me at https://www.linkedin.com/in/juan-cremona-388429186/ 
+I am always willing to collaborate and learn from new projects and experiences.
 
