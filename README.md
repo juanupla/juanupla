@@ -27,4 +27,7 @@ I am always willing to collaborate and learn from new projects and experiences.
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/juanupla/count.svg)
