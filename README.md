@@ -12,11 +12,6 @@ I'm Juan, a programming student at the National Technological University who is 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanupla&layout=compact&theme=radical)](https://github.com/juanupla)
 
-## Featured Projects
-
-- **Project 1:** This is an Angular project that allows you to do a particular task.
-- **Project 2:** This is a C# project that allows you to do another particular task.
-- **Project 3:** This is an HTML/CSS/JS project that allows you to do a particular task.
 
 ## Contact Me
 
