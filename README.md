@@ -16,22 +16,25 @@ Here are some ideas to get you started:
 -->
 
 
-¡Bienvenido a mi perfil de GitHub!
-Soy estudiante de programación en la Universidad Tecnológica Nacional y me apasiona el desarrollo de software. Tengo habilidades en C#, SQL Server, HTML, CSS, JavaScript y Angular, y me encanta aprender nuevas tecnologías y mejorar mis habilidades en las que ya tengo experiencia.
+# Hi there! 👋
 
-Mis estadísticas de GitHub
-Aquí puedes ver algunas estadísticas de mis repositorios de GitHub.
+I'm Juan, a programming student at the National Technological University who is passionate about software development. I have experience in C#, SQL Server, HTML, CSS, JavaScript, and Angular, and I enjoy learning new technologies and improving my skills in those I already have experience with.
 
-Juan's GitHub stats
+## GitHub Stats
 
-Top Langs
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanupla&show_icons=true&theme=radical)](https://github.com/juanupla)
 
-Como puedes ver, estos son los lenguajes que he utilizado en mis proyectos:
+## Top Languages
 
-C#: 40%
-JavaScript: 30%
-HTML/CSS: 20%
-SQL: 10%
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanupla&layout=compact&theme=radical)](https://github.com/juanupla)
 
-Cómo contactarme
-Si deseas contactarme, puedes enviarme un correo electrónico a juanupla@gmail.com o seguirme en Twitter @juanupla. Estoy siempre dispuesto a colaborar y a aprender de nuevos proyectos y experiencias.
+## Featured Projects
+
+- **Project 1:** This is an Angular project that allows you to do a particular task.
+- **Project 2:** This is a C# project that allows you to do another particular task.
+- **Project 3:** This is an HTML/CSS/JS project that allows you to do a particular task.
+
+## Contact Me
+
+If you would like to get in touch with me, you can email me at juanupla@gmail.com or follow me on Twitter [@juanupla](https://twitter.com/juanupla). I'm always willing to collaborate and learn from new projects and experiences.
+
