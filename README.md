@@ -6,11 +6,17 @@ I'm Juan, a programming student at the National Technological University who is 
 
 ## GitHub Stats
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanupla&show_icons=true&theme=radical)](https://github.com/juanupla)
+
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanupla&show_icons=true&theme=blueberry)
+
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanupla&layout=compact&theme=radical)](https://github.com/juanupla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanupla&layout=compact&theme=blueberry)](https://github.com/juanupla/)
+
+
+
 
 
 ## Contact Me
