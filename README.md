@@ -11,7 +11,8 @@ I'm Juan, a programming student at the National Technological University who is 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanupla&show_icons=true&theme=blueberry)
 
 
-## Top Languages
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=juanupla&theme=blueberry)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanupla&layout=compact&theme=blueberry)](https://github.com/juanupla/)
 
