@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Juan, a programming student at the National Technological University who is passionate about software development. I have experience in C#, SQL Server, HTML, CSS, JavaScript, and Angular, and I enjoy learning new technologies and improving my skills in those I already have experience with.
+I'm Juan, a programming student at the National Technological University who is passionate about software development. I have experience in Java(with Maven, SpringBoot and libraries) , .Net with C# (with EntityFramework and libraries like FluentValidation, mediator and more), SQL Server and Postgre, JavaScript, HTML, CSS, and I enjoy learning new technologies and improving my skills in those I already have experience with.
 
 ## GitHub Stats
 
