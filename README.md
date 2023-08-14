@@ -23,7 +23,7 @@ I'm Juan, a programming student at the National Technological University who is 
 ## Contact Me
 
 If you want to contact me, you can send me an email to juan.cremona@gmail.com or juan_crub@outlook.com
-You can also follow me at https://www.linkedin.com/in/juan-cremona-388429186/ 
+You can also follow me at https://www.linkedin.com/in/juan-cremona/ 
 I am always willing to collaborate and learn from new projects and experiences.
 
 
